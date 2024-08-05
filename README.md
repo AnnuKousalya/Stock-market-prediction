@@ -41,10 +41,10 @@ In this method, the data is converted to sequences or patterns which are recogni
 
 **Libraries used:**
 
-Pandas and numpy for data manipulation
-matplotlib, seaborn,  plotly for visualization of data
-pylab and statmodels for the time series decomposition
-scikitlearn and tensorflow for normalization and scaling of data
+1. Pandas and numpy for data manipulation
+2. matplotlib, seaborn,  plotly for visualization of data
+3. pylab and statmodels for the time series decomposition
+4. scikitlearn and tensorflow for normalization and scaling of data
 
 **Outputs:**
 
